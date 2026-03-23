@@ -5,7 +5,7 @@
 ### Step 1: Install Dependencies
 
 ```bash
-cd /root/.openclaw/workspace/agentic-chatbot
+cd /root/workspace/agentic-chatbot
 pip install -r requirements.txt
 ```
 
